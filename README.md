@@ -9,3 +9,5 @@
 
 # Steps to run the application with screenshots
 ##### Firstly need to login to the application trough  "login.html" page
+
+
